@@ -1,6 +1,6 @@
 # hello-world
 
-this is a new beginning to my first repository on Github
+This is a new beginning to my first repository on Github
 
 I am a penguin :penguin: :snowflake: :fish: <br/>
 I swim for a living :swimmer: <br/>
