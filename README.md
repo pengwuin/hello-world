@@ -8,4 +8,5 @@ My favorite snack to munch on is :fried_shrimp: <br/>
 My favorite fruit is papaya :melon: <br/>
 I prefer skiing :ski: than snowboarding :snowboarder: <br/>
 I am learning how to code :computer: :eyeglasses: <br/>
-I am a gamer :video_game:
+I am a gamer :video_game: <br/>
+I enjoy flying around the world :airplane:
